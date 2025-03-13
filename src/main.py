@@ -51,7 +51,7 @@ if __name__ == "__main__":
     access_key = 'Ключ от S3'
     secret_key = 'Секретный ключ от S3'
     s3_endpoint_url = 'Адрес хранилища'
-    bucket_name = "Имя бакета"
+    bucket_name = "Название бакета"
     
     # Создаем клиента S3
     s3_client = boto3.client(
