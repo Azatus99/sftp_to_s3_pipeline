@@ -22,12 +22,12 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone https://github.com/yourusername/project_name.git
+    git clone https://github.com/Azatus99/sftp_to_s3_pipeline.git
     ```
 
 2. Перейдите в папку с проектом:
     ```
-    cd project_name
+    cd sftp_to_s3_pipeline
     ```
 
 3. Установите зависимости:
